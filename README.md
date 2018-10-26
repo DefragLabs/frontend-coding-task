@@ -1,4 +1,5 @@
-***Coding Assignment***
+**CODING ASSIGNMENT**
+
 This project is bootstrapped with creat-react-app, please refer link for more details.
 https://facebook.github.io/create-react-app/docs/getting-started
 
