@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.header{
+  height: 60px;
+  width: 100%;
+  background-color: wheat;
+  display: flex
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+// Users
+.users-collection{
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+.user-card{
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  border: 1px solid red;
+  text-align: left;
+}
+.user-field{
+  padding-bottom: 5px;
+}
+
+// Photos
+.photos-collection{
+  margin: 20px;
+}
+
+.user-photo-info{
+  width: 100%;
+  height: 50px;
+  padding: 5px;
+  border: 1px solid black;
+  text-align: left;
+}
