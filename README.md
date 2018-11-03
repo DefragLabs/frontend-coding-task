@@ -7,8 +7,8 @@ https://facebook.github.io/create-react-app/docs/getting-started
 
 Note: Make sure you have yarn installed.
 
-1. yarn install
-2. yarn start 
+1. npm install OR yarn install 
+2. npm start OR yarn start
 3. The app will be runing at http://localhost:3000
 
 **Task**
